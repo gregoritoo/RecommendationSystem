@@ -1,0 +1,1717 @@
+@prefix ex: <http://RH.org/> .
+
+ex:Aiden_Clark ex:description ex:7f43ad6f94465d049d34171726eaa2060bd3e2cdd26c759ca2b70482e76b5a4c ;
+    ex:expertiseIn ex:C%2B%2B,
+        ex:Embedded_Systems,
+        ex:Qt ;
+    ex:graduated_in ex:2013,
+        ex:2016 ;
+    ex:gradutedFrom ex:California_Institute_of_Technology,
+        ex:Massachusetts_Institute_of_Technology ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Electrical_Engineering ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:8001_Tech_Way_Silicon_Valley_USA ;
+    ex:workedAs ex:Embedded_Systems_Engineer,
+        ex:Senior_Embedded_Engineer ;
+    ex:workedAt ex:Embedded_Solutions_Inc,
+        ex:Smart_Tech .
+
+ex:Aiden_Johnson ex:description ex:d9389e02cfdc2ce983412a34b0fd673110648a703c39804740c8088019152f8d ;
+    ex:expertiseIn ex:Data_Analysis,
+        ex:Machine_Learning,
+        ex:R,
+        ex:Statistics ;
+    ex:graduated_in ex:2014,
+        ex:2018 ;
+    ex:gradutedFrom ex:University_of_Chicago,
+        ex:University_of_North_Carolina ;
+    ex:holdsDegree ex:BSc_in_Statistics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:20007_Insight_St_Data_Haven_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Science_Labs,
+        ex:Predictive_Insights .
+
+ex:Aiden_Martinez ex:description ex:3bf76c3fb46e03ec5ceee0dbf792009156fbfeabbcba527fc2bc02d01663b522 ;
+    ex:expertiseIn ex:AWS,
+        ex:DevOps,
+        ex:Docker ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:University_of_Southern_California ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:5004_Innovation_St_Code_City_USA ;
+    ex:workedAs ex:DevOps_Engineer,
+        ex:Senior_DevOps_Engineer ;
+    ex:workedAt ex:Cloud_Masters,
+        ex:Tech_Innovators .
+
+ex:Alexander_Nguyen ex:description ex:24161d3c73ab07f235a6a4c5ddcd97d438000a727bc55076d069ca31c53dd9c0,
+        ex:93298b68a9c16fd60cd48cf2e59a35eb8805896e7bc145f9f1e45047b9f78d66 ;
+    ex:expertiseIn ex:Anesthesia_Support,
+        ex:Infection_Control,
+        ex:Surgical_Assistance ;
+    ex:graduated_in ex:2012 ;
+    ex:gradutedFrom ex:Health_Sciences_College ;
+    ex:holdsDegree ex:Associate_Degree_in_Surgical_Technology ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:130_Surgery_Rd_Healthfield_USA ;
+    ex:workedAs ex:Senior_Surgical_Assistant,
+        ex:Surgical_Assistant ;
+    ex:workedAt ex:Regional_Health_Center,
+        ex:Surgical_Hospital .
+
+ex:Alice_Smith ex:description ex:57c08f0950aac3305c7d76d96e2c3ae617fb55dfd50685565672eb4a12a688ee,
+        ex:9e3d326a26354adbff06695b4d84085e31a5b0c8452bdf4acb1583fe18d6bf3f,
+        ex:dca876a97da01c08ebc41b38a26f7980b2ea4f6a863c851a5d73a4a4cb2cedf2 ;
+    ex:expertiseIn ex:C%2B%2B,
+        ex:Java,
+        ex:Python ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Global_Institute,
+        ex:University_of_Technology ;
+    ex:holdsDegree ex:BSc_in_Software_Engineering,
+        ex:MSc_in_Artificial_Intelligence ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:456_Elm_St_Metropolis_USA ;
+    ex:workedAs ex:Lead_Developer,
+        ex:Software_Developer ;
+    ex:workedAt ex:Innovatech,
+        ex:TechCorp .
+
+ex:Alice_Wright ex:description ex:dc776383170b1d0ef80080aa8088f9f8f7b19435d3edcaa612eb8f5f736c4f9a,
+        ex:df55b8a4d33815311510f61190611b2447aaf43d124afc4a63eb1fea625cef82 ;
+    ex:expertiseIn ex:Brand_Strategy,
+        ex:Content_Marketing,
+        ex:Market_Research ;
+    ex:graduated_in ex:2013 ;
+    ex:gradutedFrom ex:University_of_Business ;
+    ex:holdsDegree ex:BSc_in_Marketing ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:101_Branding_Ave_Marketing_City_USA ;
+    ex:workedAs ex:Brand_Strategist,
+        ex:Senior_Brand_Manager ;
+    ex:workedAt ex:Creative_Agency,
+        ex:Global_Brands_Inc .
+
+ex:Amelia_Clark ex:description ex:7e03e8245a501f403f5dcebc68447233905352608b62bcc47e1f9fdc382600bd,
+        ex:cbe6c077316adb09e165ee28bd0447e9a938707a89717016af74f5c93d8eb013 ;
+    ex:expertiseIn ex:Account_Management,
+        ex:Blogging,
+        ex:Content_Marketing,
+        ex:Customer_Relationship_Management,
+        ex:Editing,
+        ex:Salesforce ;
+    ex:graduated_in ex:2013,
+        ex:2016 ;
+    ex:gradutedFrom ex:City_Business_School,
+        ex:Literary_Arts_University ;
+    ex:holdsDegree ex:BA_in_English_Literature,
+        ex:BSc_in_Business_Management ;
+    ex:isAged ex:30,
+        ex:35 ;
+    ex:livesAt ex:1003_Ad_Ave_Creaton_USA,
+        ex:777_Maple_Ln_Uptown_USA ;
+    ex:workedAs ex:Account_Executive,
+        ex:Content_Marketing_Specialist,
+        ex:Content_Writer,
+        ex:Senior_Account_Manager ;
+    ex:workedAt ex:BizBoost_Solutions,
+        ex:ClientConnect,
+        ex:ContentSphere,
+        ex:MediaMasters .
+
+ex:Amelia_Garcia ex:description ex:1d266b9836a5e65d8a75db15e64856096b9afe4ff6960f93708e2066b7602afd ;
+    ex:expertiseIn ex:Data_Science,
+        ex:Machine_Learning,
+        ex:R ;
+    ex:graduated_in ex:2017,
+        ex:2020 ;
+    ex:gradutedFrom ex:Stanford_University,
+        ex:University_of_Southern_California ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:6004_Innovation_Park_Code_Town_USA ;
+    ex:workedAs ex:Data_Scientist,
+        ex:Junior_Data_Scientist ;
+    ex:workedAt ex:AI_Solutions,
+        ex:Data_Insights .
+
+ex:Amelia_Taylor ex:description ex:227458a0eb49a4bc4b51e407efc22f8038c0075b56e974c79449ddb5b818dfeb,
+        ex:730044facde2e5218ed4470a0f04746ccd2484b35736639cb85a8d63bd30e3cd,
+        ex:b0b5674a9a418f2e267191997a15d2353183cd4d562dbe3122b29053f73d19a4,
+        ex:c58905ba608e7106f1f7c636a98ef91536b4081943b0b76e868e548b9f5270fb,
+        ex:e3c71adcf577b6abcc773ace06220a3673ac5ba4edaec120a02c11cf79c93dc3 ;
+    ex:expertiseIn ex:Employee_Engagement,
+        ex:Human_Resources_Management,
+        ex:Talent_Acquisition ;
+    ex:graduated_in ex:2012,
+        ex:2014 ;
+    ex:gradutedFrom ex:Cornell_University,
+        ex:University_of_California_Los_Angeles ;
+    ex:holdsDegree ex:BA_in_Psychology,
+        ex:MS_in_Human_Resource_Management ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:3007_Growth_Rd_Firm_Valley_USA ;
+    ex:workedAs ex:HR_Specialist,
+        ex:Senior_HR_Manager ;
+    ex:workedAt ex:HR_Partners,
+        ex:People_First_Co .
+
+ex:Ava_Davis ex:description ex:e15112653a09d3ba2ec39133f283398dd02f7cd628c27ba58bbd397f098f0d8a ;
+    ex:expertiseIn ex:JavaScript,
+        ex:Nodejs,
+        ex:React ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:Ohio_State_University ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:7003_Tech_Blvd_Dev_City_USA ;
+    ex:workedAs ex:Frontend_Developer,
+        ex:Full_Stack_Developer ;
+    ex:workedAt ex:Creative_Solutions,
+        ex:Web_Technologies .
+
+ex:Ava_Harris ex:description ex:172c1e874af4ee7da747d1e9c1869093a98df865c8df7f98eeb4febd5b83aba5 ;
+    ex:expertiseIn ex:Data_Analysis,
+        ex:Machine_Learning,
+        ex:R,
+        ex:Statistical_Modeling ;
+    ex:graduated_in ex:2017,
+        ex:2020 ;
+    ex:gradutedFrom ex:University_of_Miami,
+        ex:University_of_Pennsylvania ;
+    ex:holdsDegree ex:BSc_in_Mathematics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:20011_Predictive_Ave_Data_Park_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:DataTech_Co,
+        ex:Insight_Innovations .
+
+ex:Ava_Lopez ex:description ex:388c2fc2375900654a790cd4e0d8a96dd92b4d1488e62b6ec279050c5db0fb61 ;
+    ex:expertiseIn ex:Brand_Management,
+        ex:Competitive_Analysis,
+        ex:Customer_Insights ;
+    ex:graduated_in ex:2011 ;
+    ex:gradutedFrom ex:University_of_Business_and_Marketing ;
+    ex:holdsDegree ex:BSc_in_Business_Administration ;
+    ex:isAged ex:38 ;
+    ex:livesAt ex:1005_Branding_Ave_Markettown_USA ;
+    ex:workedAs ex:Brand_Specialist,
+        ex:Senior_Brand_Manager ;
+    ex:workedAt ex:Global_Brands,
+        ex:TopMark .
+
+ex:Ava_Martinez ex:description ex:33e20845c017afbefb4e0a315c9cb0e3e740636ffa6cfae6390a7e45a88502e0 ;
+    ex:expertiseIn ex:JavaScript,
+        ex:Nodejs,
+        ex:React ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:University_of_Texas_at_Austin ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:10002_Development_Ave_Tech_City_USA ;
+    ex:workedAs ex:Frontend_Developer,
+        ex:Full_Stack_Developer ;
+    ex:workedAt ex:Digital_Agency,
+        ex:Web_Solutions .
+
+ex:Ava_White ex:description ex:3152af067955b1fa8424be5d1079f3089da9e7c82f536734024281755e866d4d ;
+    ex:expertiseIn ex:Graphic_Design,
+        ex:Prototyping,
+        <http://RH.org/UI/UX_Design> ;
+    ex:graduated_in ex:2011 ;
+    ex:gradutedFrom ex:Rhode_Island_School_of_Design ;
+    ex:holdsDegree ex:BFA_in_Graphic_Design ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:4007_Digital_Ave_Tech_Valley_USA ;
+    ex:workedAs ex:Graphic_Designer,
+        <http://RH.org/UI/UX_Designer> ;
+    ex:workedAt ex:Creative_Studio,
+        ex:Design_Innovations .
+
+ex:Avery_Young ex:description ex:6742e18a5013412e58a1cff50a2bb69507408ee2a42d444a4763d36c36095cf0,
+        ex:b7593ac3f6d3379bb7b8d7b76bdaa194756a263e3f3e70da3d10693d6d04562e ;
+    ex:expertiseIn ex:B2B_Sales,
+        ex:Pipeline_Management,
+        ex:Salesforce ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:Global_Business_School ;
+    ex:holdsDegree ex:BA_in_International_Business ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:200_Oak_St_Southtown_USA ;
+    ex:workedAs ex:Sales_Associate,
+        ex:Senior_Sales_Executive ;
+    ex:workedAt ex:Enterprise_Solutions,
+        ex:SalesHub .
+
+ex:Benjamin_Anderson ex:description ex:6e68cf35f3874e52d9dfd0882378deefa197e93147a45635e108bdc0a874ef56 ;
+    ex:expertiseIn ex:Big_Data,
+        ex:Deep_Learning,
+        ex:NLP,
+        ex:Python ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Harvard_University,
+        ex:University_of_Michigan ;
+    ex:holdsDegree ex:BSc_in_Statistics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:20016_Machine_Learning_Ave_Data_Center_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Ventures,
+        ex:NLP_Solutions .
+
+ex:Benjamin_Green ex:description ex:72f7280cad7c40d805b541a43744ed3f7b0f8fe05393b24bd8fc60dffb5cf4d1,
+        ex:f17b4069b46da510d3baeefcb8644a95c311a706036ddd2f64afb8e7f20237f8 ;
+    ex:expertiseIn ex:Agile_Methodologies,
+        ex:Product_Management,
+        ex:Roadmapping ;
+    ex:graduated_in ex:2017 ;
+    ex:gradutedFrom ex:Tech_University ;
+    ex:holdsDegree ex:BSc_in_Business_and_Technology ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:1000_River_Dr_Capital_City_USA ;
+    ex:workedAs ex:Product_Coordinator,
+        ex:Product_Manager ;
+    ex:workedAt ex:NextGen_Products,
+        ex:Product_Solutions .
+
+ex:Benjamin_Lee ex:description ex:8b6cee344e4a044b460886e9cc328c9ec1e4d66b56d709a4967203b84eb90fcb ;
+    ex:expertiseIn ex:Artificial_Intelligence,
+        ex:Python,
+        ex:TensorFlow ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Massachusetts_Institute_of_Technology,
+        ex:University_of_California_San_Diego ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Artificial_Intelligence ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:6006_Digital_St_Code_City_USA ;
+    ex:workedAs ex:AI_Researcher,
+        ex:Machine_Learning_Engineer ;
+    ex:workedAt ex:AI_Innovations,
+        ex:Deep_Learning_Corp .
+
+ex:Benjamin_Wilson ex:description ex:38104f50505821d788a2ae3da079d2479e8156a6053ab6f55034940b4445451e,
+        ex:40e41c00fd6ea7cbc8cc508d6e108f1c31e49fa33724709bab68725bd34630e8,
+        ex:772ca07a96905981a06d5f5941dc4dffecb4fa3825baf29272d8c7e973a15749,
+        ex:d7f47ab677143d800d5e2e7293e0e6d67fd2074b96c1dc97df9cc4f3ae602d7f,
+        ex:f99d58bbde7e33c8830ee7ded600fb74388f52de3153d363868be7f61bb101ed ;
+    ex:expertiseIn ex:Customer_Relationship_Management,
+        ex:Market_Research,
+        ex:Sales_Techniques ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:University_of_Pennsylvania ;
+    ex:holdsDegree ex:BS_in_Marketing ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:3008_Development_St_Biz_City_USA ;
+    ex:workedAs ex:Regional_Sales_Manager,
+        ex:Sales_Executive ;
+    ex:workedAt ex:Client_Connect,
+        ex:Growth_Strategies_Inc .
+
+ex:Charlotte_Garcia ex:description ex:c1e91bea4a0cd3a7de45100e61e36b91e498ad929bc83f8f495d861b11404eee ;
+    ex:expertiseIn ex:Data_Mining,
+        ex:Data_Visualization,
+        ex:Machine_Learning,
+        ex:Python ;
+    ex:graduated_in ex:2016,
+        ex:2019 ;
+    ex:gradutedFrom ex:Stanford_University,
+        ex:University_of_Southern_California ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:20015_Predictive_St_Data_Haven_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Insightful_Analytics,
+        ex:Predictive_Analytics_Corp .
+
+ex:Charlotte_Martinez ex:description ex:2cc28680c5b97d3c477836094cb0043947c8fefe84b16f24fa26e06c131abb0a,
+        ex:504282f773f13261c0cdb2a7511d58d65fb1ba13cbe371ebf44a3a8bdb60bf1d,
+        ex:dc3ef10a0805f2fd96c238425973aa0a546c355a6a7be39aa91220241e1798a2,
+        ex:f1472b069be1f5b5732eec24a2776f468155eb6a5b2a169327c077cfdb453610 ;
+    ex:expertiseIn ex:Big_Data_Technologies,
+        ex:Data_Mining,
+        ex:Predictive_Modeling ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:University_of_California_Los_Angeles ;
+    ex:holdsDegree ex:BSc_in_Information_Systems ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:2007_Research_Blvd_AI_Valley_USA ;
+    ex:workedAs ex:Data_Engineer,
+        ex:Senior_Data_Scientist ;
+    ex:workedAt ex:AI_Tech_Labs,
+        ex:BigData_Solutions .
+
+ex:Charlotte_Moore ex:description ex:46662cbd6d69861095556181dc4acdca70a2044307eb1f8dce7fb1c82d2c188f,
+        ex:68c2cd9156cdd3513a1447c30f0923ca3a55c2b0ba43bf76df8f1b38de676bec,
+        ex:a62d5839de9e4416fb4d4f9b9155fb8855421700c9ebcea57a5d9c5d2b7162e8,
+        ex:a7d9977ab13a5761c6d64d81d976160b7dda9c008d69d5d248f1a7e381f8ca22,
+        ex:fceb21ce831e17cfb0820e4056ad6428be41f19b6c49ea23e42388682c75350d ;
+    ex:expertiseIn ex:Market_Development,
+        ex:Sales_Forecasting,
+        ex:Strategic_Partnerships ;
+    ex:graduated_in ex:2011,
+        ex:2013 ;
+    ex:gradutedFrom ex:Northwestern_University,
+        ex:University_of_Chicago ;
+    ex:holdsDegree ex:BA_in_Business_Economics,
+        ex:MBA_in_Strategy ;
+    ex:isAged ex:37 ;
+    ex:livesAt ex:3006_Strategy_Ave_Business_Valley_USA ;
+    ex:workedAs ex:Business_Development_Representative,
+        ex:Director_of_Business_Development ;
+    ex:workedAt ex:Market_Makers,
+        ex:Partner_Innovations .
+
+ex:Charlotte_Wilson ex:description ex:bc67aadb5a2b406df1d81e00d9828c6b8a248f4eb8026f3aa6bdd37735b2a496 ;
+    ex:expertiseIn ex:Java,
+        ex:Microservices,
+        ex:Spring_Boot ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:University_of_Texas ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:7001_Coding_Lane_Tech_City_USA ;
+    ex:workedAs ex:Java_Developer,
+        ex:Senior_Software_Engineer ;
+    ex:workedAt ex:Innovative_Solutions,
+        ex:Tech_Labs .
+
+ex:Chloe_Nelson ex:expertiseIn ex:Database_Design,
+        ex:PostgreSQL,
+        ex:SQL ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Columbia_University,
+        ex:University_of_Washington ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:9002_Innovation_Dr_Tech_Valley_USA ;
+    ex:workedAs ex:Data_Engineer,
+        ex:Database_Administrator ;
+    ex:workedAt ex:Data_Solutions,
+        ex:Tech_Analytics .
+
+ex:Chloe_Taylor ex:description ex:f16cf472c04f5d72e754701011d2371a3e43c6ea0222eaae50b3e0a076bf4bcd ;
+    ex:expertiseIn ex:Data_Visualization,
+        ex:Machine_Learning,
+        ex:Python ;
+    ex:graduated_in ex:2014,
+        ex:2017 ;
+    ex:gradutedFrom ex:University_of_Michigan,
+        ex:University_of_Washington ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:5002_Innovation_Blvd_Dev_Town_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Machine_Learning_Engineer ;
+    ex:workedAt ex:AI_Innovations,
+        ex:Data_Insights .
+
+ex:Daniel_Hernandez ex:description ex:e04cec60ef6e2826411fb4310854fe88e2f91d2d2b8cc32cb0aa9e323840d987,
+        ex:e23dab43dd3558964f48fb7560200e0177acb404f5a52784794f215c42c3f3bc ;
+    ex:expertiseIn ex:Competitive_Analysis,
+        ex:Customer_Insights,
+        ex:Market_Analysis ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:Business_and_Marketing_Institute ;
+    ex:holdsDegree ex:BSc_in_Marketing ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:404_Strategy_Rd_Brandtown_USA ;
+    ex:workedAs ex:Market_Research_Analyst,
+        ex:Marketing_Strategist ;
+    ex:workedAt ex:Insight_Corp,
+        ex:Trendsetters_Inc .
+
+ex:David_Miller ex:description ex:694695edd543af55cb95c24d68370bec585a988cc92383db06a0e9e3567a671a,
+        ex:f3637541e77fa4193fcbc837ece6156e096e645bf2114d621c0e9c74a60d2d84 ;
+    ex:expertiseIn ex:JavaScript,
+        ex:Rails,
+        ex:Ruby ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:Tech_Institute ;
+    ex:holdsDegree ex:BSc_in_Computer_Engineering ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:102_Park_Ave_Capital_City_USA ;
+    ex:workedAs ex:Backend_Developer,
+        ex:Full_Stack_Developer ;
+    ex:workedAt ex:AppBuilders,
+        ex:Digital_Horizons .
+
+ex:Elijah_Anderson ex:description ex:1150cc5c60e42f20ae85b5fd5497249dd7f5118d9516b063c5a945fb060f7902 ;
+    ex:expertiseIn ex:C%23,
+        ex:NET,
+        ex:SQL_Server ;
+    ex:graduated_in ex:2014,
+        ex:2017 ;
+    ex:gradutedFrom ex:University_of_Florida,
+        ex:University_of_Southern_California ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Software_Engineering ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:10003_Coding_Blvd_Digital_Valley_USA ;
+    ex:workedAs ex:Senior_Software_Engineer,
+        ex:Software_Developer ;
+    ex:workedAt ex:Enterprise_Systems,
+        ex:Tech_Solutions .
+
+ex:Elijah_Garcia ex:description ex:8d061ce0de77d3d7ca2f0feec66c035963304b1fa120ddf4023a8348eed34528 ;
+    ex:expertiseIn ex:Django,
+        ex:Machine_Learning,
+        ex:Python ;
+    ex:graduated_in ex:2014,
+        ex:2017 ;
+    ex:gradutedFrom ex:Stanford_University,
+        ex:University_of_California_San_Diego ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Artificial_Intelligence ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:7004_Innovation_St_Software_Valley_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Machine_Learning_Engineer ;
+    ex:workedAt ex:Data_Wizards,
+        ex:Intelligent_Systems .
+
+ex:Ella_Walker ex:description ex:b87c41beeff8fda205429795e3581ffba7e74b39dec0650075b3b586192bec77 ;
+    ex:expertiseIn ex:Event_Planning,
+        ex:Media_Relations,
+        ex:Public_Relations ;
+    ex:graduated_in ex:2012 ;
+    ex:gradutedFrom ex:College_of_Communications ;
+    ex:holdsDegree ex:BA_in_Public_Relations ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:1007_Promotion_Ave_Brandland_USA ;
+    ex:workedAs ex:PR_Specialist,
+        ex:Senior_PR_Manager ;
+    ex:workedAt ex:MediaLink,
+        ex:StrategicComm .
+
+ex:Ella_Young ex:expertiseIn ex:Swift,
+        <http://RH.org/UI/UX_Design>,
+        ex:iOS_Development ;
+    ex:graduated_in ex:2018 ;
+    ex:gradutedFrom ex:University_of_North_Carolina ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:8006_Tech_Lane_Code_Town_USA ;
+    ex:workedAs ex:Lead_iOS_Developer,
+        ex:iOS_Developer ;
+    ex:workedAt ex:Creative_Designs,
+        ex:Mobile_Apps_Inc .
+
+ex:Emma_Anderson ex:description ex:542bb146b9cd9b4ce740f5f96ffd1860359fa3b13d0229d9cf3ca42a704cbbe2 ;
+    ex:expertiseIn ex:Data_Structures,
+        ex:Python,
+        ex:Web_Development ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:Massachusetts_Institute_of_Technology ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:4002_Dev_Ave_Software_City_USA ;
+    ex:workedAs ex:Frontend_Developer,
+        ex:Full_Stack_Developer ;
+    ex:workedAt ex:Digital_Solutions,
+        ex:Web_Innovations .
+
+ex:Emma_Brown ex:description ex:5910139ae4fc0ca4b4e0ca8bc9d79bf55f86ca21875ca68bf6e88404fd898e89,
+        ex:650d427614fc2440fc2759d22425f0cac7a7fbbf4f6089cc6e9f94a0a059d101,
+        ex:a2fe65f2592f7a53807536f00541bb5c8c9e4b7e8a2106a846989b735e3ebe2c ;
+    ex:expertiseIn ex:Data_Analysis,
+        ex:Python,
+        ex:SQL ;
+    ex:graduated_in ex:2017,
+        ex:2020 ;
+    ex:gradutedFrom ex:Advanced_University,
+        ex:State_College ;
+    ex:holdsDegree ex:BSc_in_Statistics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:28 ;
+    ex:livesAt ex:321_Oak_St_Bigcity_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Senior_Data_Analyst ;
+    ex:workedAt ex:DataPros,
+        ex:Insight_Analytics .
+
+ex:Emma_Jones ex:description ex:5181d09161d26b98ac373279dde45d49b66cee8766b33ad26e32ce8a53a59bbb,
+        ex:95bb7351f6c9d5f94077a1dc3723c3783b34d7d4980fc0147332e3bcbf0757e5 ;
+    ex:expertiseIn ex:Analytics,
+        ex:Influencer_Marketing,
+        ex:Social_Media_Management ;
+    ex:graduated_in ex:2012 ;
+    ex:gradutedFrom ex:Institute_of_Marketing ;
+    ex:holdsDegree ex:BA_in_Marketing_Communications ;
+    ex:isAged ex:37 ;
+    ex:livesAt ex:505_Creative_Dr_Adville_USA ;
+    ex:workedAs ex:Social_Media_Manager,
+        ex:Social_Media_Specialist ;
+    ex:workedAt ex:AdBuzz,
+        ex:BrandMakers .
+
+ex:Emma_Robinson ex:description ex:4ebcaceaee6241e0ba9b559f8b3b5f7832e8a8c6a97459dc39440691384ed701,
+        ex:d8844dec0c32099d00b1316a0dc8511f7c67dbc3c177c40bcb37b1180910c8e7 ;
+    ex:expertiseIn ex:Medical_Documentation,
+        ex:Patient_Care,
+        ex:Surgical_Assistance ;
+    ex:graduated_in ex:2009 ;
+    ex:gradutedFrom ex:National_Nursing_College ;
+    ex:holdsDegree ex:BSc_in_Nursing ;
+    ex:isAged ex:39 ;
+    ex:livesAt ex:123_Health_Blvd_MedCity_USA ;
+    ex:workedAs ex:Registered_Nurse,
+        ex:Senior_Registered_Nurse ;
+    ex:workedAt ex:City_Hospital,
+        ex:Metro_Medical_Center .
+
+ex:Emma_Wilson ex:description ex:01146fac3bbb971cd226eae59ae0e770f3ac0660a2cb12a757b0eb4c4eb407ed ;
+    ex:expertiseIn ex:Data_Cleaning,
+        ex:Machine_Learning,
+        ex:NLP,
+        ex:Python ;
+    ex:graduated_in ex:2019,
+        ex:2022 ;
+    ex:gradutedFrom ex:Duke_University,
+        ex:University_of_Southern_California ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:28 ;
+    ex:livesAt ex:20006_Data_Ave_Insight_Valley_USA ;
+    ex:workedAs ex:Data_Scientist,
+        ex:Junior_Data_Scientist ;
+    ex:workedAt ex:Smart_Data_Solutions,
+        ex:Text_Analytics_Inc .
+
+ex:Ethan_Lewis ex:expertiseIn ex:Docker,
+        ex:Go,
+        ex:Kubernetes ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:Georgia_Institute_of_Technology ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:8005_Development_Blvd_Silicon_Valley_USA ;
+    ex:workedAs ex:DevOps_Engineer,
+        ex:Software_Engineer ;
+    ex:workedAt ex:Container_Solutions,
+        ex:DevOps_Corp .
+
+ex:Ethan_Roberts ex:description ex:296d960dda352d5f074e5d5eabb8389eb02712ee6b0ee27dcd51ca885ace8021 ;
+    ex:expertiseIn ex:Data_Visualization,
+        ex:Machine_Learning,
+        ex:Pandas,
+        ex:Python ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Columbia_University,
+        ex:Harvard_University ;
+    ex:holdsDegree ex:BSc_in_Statistics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:20001_Data_St_Analysis_City_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Analytics_Inc,
+        ex:Insight_Solutions .
+
+ex:Ethan_Robinson ex:description ex:48191c2dfa6b7661d291aeb9b22e610b2d0899967dd5a6276df40713da2931f6,
+        ex:bc82d65464ee720a787214a5b43b3d0794cae4e999de73a05bf6513cc88b69e4 ;
+    ex:expertiseIn ex:JavaScript,
+        ex:Nodejs,
+        ex:React ;
+    ex:graduated_in ex:2013,
+        ex:2015 ;
+    ex:gradutedFrom ex:California_State_University,
+        ex:San_Jose_State_University ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Software_Engineering ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:5001_Tech_Way_Codeville_USA ;
+    ex:workedAs ex:Frontend_Developer,
+        ex:Full_Stack_Developer ;
+    ex:workedAt ex:Tech_Wizards,
+        ex:Web_Solutions .
+
+ex:Grace_King ex:expertiseIn ex:Laravel,
+        ex:MySQL,
+        ex:PHP ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:University_of_Southern_California ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:8004_Software_St_Tech_Valley_USA ;
+    ex:workedAs ex:PHP_Developer,
+        ex:Senior_Backend_Developer ;
+    ex:workedAt ex:Digital_Innovations,
+        ex:Web_Solutions .
+
+ex:Henry_Martinez ex:description ex:788c16d64d33be19282d620f05b0d9e57fc8e3b316811ec3a46c112eb43ccfc0 ;
+    ex:expertiseIn ex:Campaign_Management,
+        ex:Email_Marketing,
+        ex:PPC_Advertising ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:Advertising_School ;
+    ex:holdsDegree ex:BSc_in_Marketing ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:1004_Campaign_Rd_Promoville_USA ;
+    ex:workedAs ex:Campaign_Coordinator,
+        ex:Campaign_Manager ;
+    ex:workedAt ex:AdConnect,
+        ex:CampaignGenius .
+
+ex:Isabella_Harris ex:description ex:c67346197304182cf0c51a42065bd59ac130d393e0b9f340d8780ed290f7bfda ;
+    ex:expertiseIn ex:Android_Development,
+        ex:Kotlin,
+        <http://RH.org/UI/UX_Design> ;
+    ex:graduated_in ex:2018 ;
+    ex:gradutedFrom ex:University_of_California_Berkeley ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:9005_Software_St_Innovation_Valley_USA ;
+    ex:workedAs ex:Android_Developer,
+        ex:Senior_Android_Developer ;
+    ex:workedAt ex:Creative_Solutions,
+        ex:Mobile_Apps_Co .
+
+ex:Isabella_Jones ex:description ex:54a18cce090fba1377ec79d2e3d8d80d0e15b290758b888e2e2e6066155bd012,
+        ex:d30b59e9931daf85353c99ecbe8cb810810d87d42a573f637d2ee33bb7928789,
+        ex:e5446f555c8341d046e8bbf185473159029c6801b779dc2702ca605c08f2afee,
+        ex:e799c8c1887341240c40b44ae943e4e932894cd718c31b6dc19be2ffc9c01c3f ;
+    ex:expertiseIn ex:AI_Ethics,
+        ex:Data_Governance,
+        ex:Machine_Learning ;
+    ex:graduated_in ex:2015,
+        ex:2017 ;
+    ex:gradutedFrom ex:Harvard_University,
+        ex:University_of_California_San_Diego ;
+    ex:holdsDegree ex:BSc_in_Cognitive_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:2005_Intelligent_Blvd_Tech_Town_USA ;
+    ex:workedAs ex:AI_Ethics_Consultant,
+        ex:Senior_Data_Scientist ;
+    ex:workedAt ex:Ethical_AI_Solutions,
+        ex:Tech_Integrity_Inc .
+
+ex:Isabella_Lopez ex:description ex:01a9ef9816bf8a6899f2cf8333d9526526e54a785ef81a05d2a90cfe126c0edb,
+        ex:9498b2a8300b8683c3d906de354f21ed96e0ddfd7ef7489a9cc970f972ac8d11 ;
+    ex:expertiseIn ex:Corporate_Communications,
+        ex:Media_Outreach,
+        ex:Public_Relations ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:Institute_of_Media_Studies ;
+    ex:holdsDegree ex:BA_in_Communications ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:999_Oak_Blvd_Eastfield_USA ;
+    ex:workedAs ex:Corporate_Communications_Manager,
+        ex:PR_Specialist ;
+    ex:workedAt ex:Brand_Voice,
+        ex:Communicate_Corp .
+
+ex:Isabella_Smith ex:description ex:1d098a49a7c6af573f22597d44572024f10fc998b1f35a6b421437173ff03356,
+        ex:d74fc15db2f9ecbe6bc2b0b8aba84b71b5052345f872ef4710f753c910c76511 ;
+    ex:expertiseIn ex:Diagnostic_Imaging,
+        ex:Patient_Communication,
+        ex:Radiology ;
+    ex:graduated_in ex:2017 ;
+    ex:gradutedFrom ex:Medical_Imaging_College ;
+    ex:holdsDegree ex:BSc_in_Radiologic_Technology ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:121_Care_Blvd_East_Health_USA ;
+    ex:workedAs ex:Radiology_Technician,
+        ex:Senior_Radiology_Technician ;
+    ex:workedAt ex:General_Hospital,
+        ex:Precision_Diagnostics .
+
+ex:Isabella_Williams ex:description ex:c8ca2ddd3f490f298c5a586ef6c037732aeac8ebec5f2e8de0fcc7084bc63f6b ;
+    ex:expertiseIn ex:Deep_Learning,
+        ex:Natural_Language_Processing,
+        ex:Python,
+        ex:TensorFlow ;
+    ex:graduated_in ex:2016,
+        ex:2019 ;
+    ex:gradutedFrom ex:Massachusetts_Institute_of_Technology,
+        ex:University_of_California_Los_Angeles ;
+    ex:holdsDegree ex:BSc_in_Statistics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:20013_Analysis_Way_Data_Valley_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:AI_Insights,
+        ex:Data_Dynamics .
+
+ex:Isabella_Young ex:description ex:3632fae4a2e6f40d520831f4ec88461bed0c0eb36ad98b6f3cefce906ec6e269 ;
+    ex:expertiseIn ex:Cybersecurity,
+        ex:Network_Security,
+        ex:Penetration_Testing ;
+    ex:graduated_in ex:2016,
+        ex:2019 ;
+    ex:gradutedFrom ex:Johns_Hopkins_University,
+        ex:University_of_Florida ;
+    ex:holdsDegree ex:BSc_in_Information_Technology,
+        ex:MSc_in_Cybersecurity ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:5005_Digital_Ave_Tech_Valley_USA ;
+    ex:workedAs ex:Cybersecurity_Specialist,
+        ex:Security_Analyst ;
+    ex:workedAt ex:Cyber_Defense_Group,
+        ex:SecureTech .
+
+ex:Jackson_Lewis ex:description ex:2df74f97a1d6e48e0335eeef46bd2ad6fd9963f91d2cde74dccdb6af47677d66 ;
+    ex:expertiseIn ex:Automation,
+        ex:Cloud_Computing,
+        ex:DevOps ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:University_of_Illinois ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:4006_Development_Dr_IT_City_USA ;
+    ex:workedAs ex:DevOps_Engineer,
+        ex:Senior_DevOps_Engineer ;
+    ex:workedAt ex:Cloud_Technologies,
+        ex:Tech_Innovations .
+
+ex:Jackson_Martinez ex:description ex:801ee8ffb5cd0c59d3ca36a0368417a1e2e5e5b25a7ed34b9b351220d9c9f8f2 ;
+    ex:expertiseIn ex:Apache_Spark,
+        ex:Data_Visualization,
+        ex:Machine_Learning,
+        ex:SQL ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Georgia_Institute_of_Technology,
+        ex:University_of_Michigan ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Analytics ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:20005_Predictive_Ln_Data_City_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Corporation,
+        ex:Insight_Labs .
+
+ex:Jackson_Wright ex:description ex:03bbb9d0e5318623e182a79ec4325fa99e1aead9a61c93c82bf37c24cbdbd9a7,
+        ex:ba1b6b7489aff0250ef540b7064b41791ce26c3bf065b50f6bdbd50d9ac92fbb ;
+    ex:expertiseIn ex:Digital_Advertising,
+        ex:E-commerce,
+        ex:SEO ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:Digital_University ;
+    ex:holdsDegree ex:BA_in_Digital_Marketing ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:400_Birch_St_Central_City_USA ;
+    ex:workedAs ex:E-commerce_Analyst,
+        ex:E-commerce_Marketing_Manager ;
+    ex:workedAt ex:AdSolutions,
+        ex:Online_Market .
+
+ex:James_Brown ex:description ex:3aac2bb3744450e1dffe906ac8e8753a31fa04b81cd69b316c871a159786494c,
+        ex:53ed636d148b224818de59a284c3afcdcddd4844e324c1533ce4e311a4651d03,
+        ex:d9a50ab0c5d82d96edc2b0464051f6f865bc065ba22cb157ef07c9894f5a57b2,
+        ex:da7acaf15b6a1b5db6c4951c9ba92efaf01971074745e199dac0fb0e35e00f3d ;
+    ex:expertiseIn ex:Negotiation,
+        ex:Project_Management,
+        ex:Strategic_Planning ;
+    ex:graduated_in ex:2008,
+        ex:2010 ;
+    ex:gradutedFrom ex:Harvard_Business_School,
+        ex:University_of_Michigan ;
+    ex:holdsDegree ex:BA_in_Economics,
+        ex:MBA_in_Business_Administration ;
+    ex:isAged ex:39 ;
+    ex:livesAt ex:3001_Corporate_St_Business_City_USA ;
+    ex:workedAs ex:Business_Analyst,
+        ex:Senior_Business_Consultant ;
+    ex:workedAt ex:Global_Enterprises,
+        ex:Innovate_Solutions .
+
+ex:James_Chen ex:description ex:058ebc85d99efaa052b6e5e9c4aff86893546358de5f1155f1cb5d40bea08c18,
+        ex:bfa560c6935dba240dd7d6257a1d0185deecfece9881362cb91b1c883764a9fc ;
+    ex:expertiseIn ex:Biostatistics,
+        ex:Data_Analysis,
+        ex:Laboratory_Research ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Health_Research_Academy,
+        ex:University_of_Biomedical_Sciences ;
+    ex:holdsDegree ex:BSc_in_Biomedical_Sciences,
+        ex:MSc_in_Medical_Research ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:1010_Doctor_Way_CareCity_USA ;
+    ex:workedAs ex:Medical_Laboratory_Technician,
+        ex:Senior_Medical_Researcher ;
+    ex:workedAt ex:Genetics_Lab_Corp,
+        ex:Research_Health_Institute .
+
+ex:James_Lee ex:description ex:30f5d17b69b8e44efc6b0613e7800917a45e6cf70b36c2c0551969b3369d6d7a,
+        ex:e1e38348699d6633d1533b83d046bc653e979b0f7b19a229d68c6772da43547c ;
+    ex:expertiseIn ex:Automation_Tools,
+        ex:Email_Marketing,
+        ex:Lead_Nurturing ;
+    ex:graduated_in ex:2017 ;
+    ex:gradutedFrom ex:Tech_Marketing_School ;
+    ex:holdsDegree ex:BSc_in_Digital_Marketing ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:707_Ads_Blvd_Marketcity_USA ;
+    ex:workedAs ex:Email_Marketing_Specialist,
+        ex:Senior_Email_Marketing_Manager ;
+    ex:workedAt ex:DigitalReach,
+        ex:EngageNow .
+
+ex:James_Taylor ex:description ex:475cfdb9ec267c61cc787089b7bbedc02c9241e9f6dc7bea045cc843d8c8e7fa ;
+    ex:expertiseIn ex:Data_Mining,
+        ex:Python,
+        ex:R,
+        ex:Statistical_Analysis ;
+    ex:graduated_in ex:2016,
+        ex:2019 ;
+    ex:gradutedFrom ex:University_of_California_Los_Angeles,
+        ex:University_of_Illinois ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:20009_Analytics_Way_Data_City_USA ;
+    ex:workedAs ex:Data_Scientist,
+        ex:Junior_Data_Scientist ;
+    ex:workedAt ex:Advanced_Analytics_Corp,
+        ex:Future_Data_Solutions .
+
+ex:Jonny_Brown ex:description ex:0000abb48544c637ab592ce7b68e1b139acf136760b05b40e3c5433b65df8834 ;
+    ex:expertiseIn ex:Java,
+        ex:Microservices,
+        ex:Spring ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:University_of_Washington ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:6001_Byte_Rd_Coding_Town_USA ;
+    ex:workedAs ex:Java_Developer,
+        ex:Software_Architect ;
+    ex:workedAt ex:Innovative_Tech,
+        ex:Tech_Innovations .
+
+ex:Liam_Garcia ex:description ex:ec7955d86dbbd9243b47fcbd1ce48e13db957591e24386d73f8b60acf682d3d4 ;
+    ex:expertiseIn ex:Backend_Development,
+        ex:Database_Management,
+        ex:JavaScript,
+        ex:MongoDB,
+        ex:Nodejs,
+        ex:SQL ;
+    ex:graduated_in ex:2010,
+        ex:2015,
+        ex:2016 ;
+    ex:gradutedFrom ex:Georgia_Institute_of_Technology,
+        ex:Tech_University,
+        ex:University_of_Texas_at_Austin ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:BSc_in_Information_Technology,
+        ex:MSc_in_Software_Engineering ;
+    ex:isAged ex:30,
+        ex:38 ;
+    ex:livesAt ex:4003_Tech_Blvd_Code_City_USA,
+        ex:789_Sunset_Blvd_Riverside_USA ;
+    ex:workedAs ex:Backend_Developer,
+        ex:Database_Administrator,
+        ex:Full_Stack_Developer,
+        ex:Senior_Backend_Developer ;
+    ex:workedAt ex:AppLab,
+        ex:Backend_Solutions,
+        ex:Data_Corp,
+        ex:WebWorks .
+
+ex:Liam_Johnson ex:description ex:99aad579d079480fd9d8e72f430258b795fadc937060bbd08f38af84cb365c0e ;
+    ex:expertiseIn ex:Apache_Spark,
+        ex:Machine_Learning,
+        ex:Scala ;
+    ex:graduated_in ex:2013,
+        ex:2016 ;
+    ex:gradutedFrom ex:Stanford_University,
+        ex:University_of_California_San_Diego ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Artificial_Intelligence ;
+    ex:isAged ex:37 ;
+    ex:livesAt ex:10001_Code_St_Silicon_Valley_USA ;
+    ex:workedAs ex:Data_Engineer,
+        ex:Machine_Learning_Engineer ;
+    ex:workedAt ex:AI_Solutions,
+        ex:Data_Innovations .
+
+ex:Liam_Jones ex:description ex:7f42f91ae450c61bb2cb9e9252e44860c661b0aa71f941c1477c20cfc5e1dc00 ;
+    ex:expertiseIn ex:Big_Data,
+        ex:Deep_Learning,
+        ex:Python,
+        ex:TensorFlow ;
+    ex:graduated_in ex:2016,
+        ex:2019 ;
+    ex:gradutedFrom ex:Massachusetts_Institute_of_Technology,
+        ex:Stanford_University ;
+    ex:holdsDegree ex:BSc_in_Mathematics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:20003_Insight_Blvd_Analytics_City_USA ;
+    ex:workedAs ex:Data_Scientist,
+        ex:Junior_Data_Scientist ;
+    ex:workedAt ex:AI_Innovations,
+        ex:Future_Tech .
+
+ex:Liam_Martin ex:description ex:5c381bcbad53e880e8ad703be67aeae0c45599528d4ad78e8adae4a17cbcdded ;
+    ex:expertiseIn ex:Azure,
+        ex:C%23,
+        ex:NET ;
+    ex:graduated_in ex:2014,
+        ex:2017 ;
+    ex:gradutedFrom ex:University_of_Florida,
+        ex:University_of_Illinois ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Software_Engineering ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:7002_Digital_Ave_Code_Town_USA ;
+    ex:workedAs ex:Senior_Software_Engineer,
+        ex:Software_Developer ;
+    ex:workedAt ex:Cloud_Dynamics,
+        ex:Tech_Innovations .
+
+ex:Liam_Miller ex:description ex:2fc6a33d3dd1c7f060efe6bd5b3c6a3963d2c4ebf07fe410aaf8a4df75e4bae4,
+        ex:b0ac337fc11b89b86924b08d264e1f1f2bbe799efb50b7989c0ba68bdc0579dd ;
+    ex:expertiseIn ex:Medical_Diagnosis,
+        ex:Patient_Care,
+        ex:Surgery ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:University_of_Medicine ;
+    ex:holdsDegree ex:Doctor_of_Medicine_%28MD%29 ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:456_Med_St_Healthtown_USA ;
+    ex:workedAs ex:General_Surgeon,
+        ex:Senior_Surgeon ;
+    ex:workedAt ex:Advanced_Medical_Center,
+        ex:Central_Hospital .
+
+ex:Liam_Taylor ex:description ex:5bd53ebcc8e612ec5a4bbae41b303cae77d53b84ca60cdc6c80521b0dd333540,
+        ex:75992ba14b69ad49168b7ce1552ae958e04034f70cad91c833afdc66126d8d5e,
+        ex:a380cba16f717ea4acb05705eec96433b01331ee14f703bd48fe1769d0d6d4c4,
+        ex:bf2810c26753b124e7e07e1b27fef737c9a47e7ab5232747c9be062e8c787450,
+        ex:e9bbbed8daf776005c3ca41ee8020ef4a8ae4a8fd06fc786dd8e979709ad3bb3 ;
+    ex:expertiseIn ex:Operations_Management,
+        ex:Process_Improvement,
+        ex:Supply_Chain_Optimization ;
+    ex:graduated_in ex:2012,
+        ex:2014 ;
+    ex:gradutedFrom ex:Massachusetts_Institute_of_Technology,
+        ex:University_of_Florida ;
+    ex:holdsDegree ex:BSc_in_Industrial_Engineering,
+        ex:MBA_in_Operations_Management ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:3005_Executive_Dr_Firm_City_USA ;
+    ex:workedAs ex:Operations_Analyst,
+        ex:Operations_Manager ;
+    ex:workedAt ex:Efficient_Logistics,
+        ex:Supply_Chain_Solutions .
+
+ex:Lily_Adams ex:description ex:1a9d572a36237b58e293253ebfecc6726a204e8cc10ac5b975b8eeca4184161a,
+        ex:2478dfaf5b1d3279ad807bf4501fd9ea94a979ae7c6606a254c2c6d3e16a2fb7 ;
+    ex:expertiseIn ex:Content_Creation,
+        ex:Influencer_Partnerships,
+        ex:Social_Media_Marketing ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:Creative_Arts_College ;
+    ex:holdsDegree ex:BA_in_Media_and_Communications ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:1001_Market_Blvd_Advertown_USA ;
+    ex:workedAs ex:Senior_Social_Media_Strategist,
+        ex:Social_Media_Coordinator ;
+    ex:workedAt ex:SocialX_Media,
+        ex:TrendWave .
+
+ex:Logan_Young ex:description ex:1f52b32314c6dd2416626b3180c7cea995d7b4c3b7fe5ca17fec6293bef6120d,
+        ex:5c7ce4cec5e790e782c7244ef83c5b015b8ba5433912cfd9bc8c1a68ee55895b,
+        ex:5d5d21b32480556b74833dd12a7213a1bb61cc86a8e619a0a5ba3246bb5244f1,
+        ex:62f7e7ddb6a8dbd348c6c5a54cd6324dc2014608dc91a80d4fffa53f52d39357,
+        ex:bf145880900d9a6719f6e38e14d38e25934b55cf01cb9ba8ee0a0da8b635f510 ;
+    ex:expertiseIn ex:AI_Research,
+        ex:Computer_Vision,
+        ex:Deep_Learning_Frameworks ;
+    ex:graduated_in ex:2012,
+        ex:2017 ;
+    ex:gradutedFrom ex:Georgia_Institute_of_Technology,
+        ex:University_of_Florida ;
+    ex:holdsDegree ex:BSc_in_Computer_Engineering,
+        ex:PhD_in_Artificial_Intelligence ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:2008_Innovation_St_Tech_Valley_USA ;
+    ex:workedAs ex:AI_Research_Engineer,
+        ex:Lead_AI_Engineer ;
+    ex:workedAt ex:NextGen_Robotics,
+        ex:VisionAI_Corp .
+
+ex:Lucas_Hall ex:description ex:ae67ffab2057ba1f073cab1f327924e6396ac76289053c3dde812ee40ebb31c9 ;
+    ex:expertiseIn ex:Algorithms,
+        ex:C%2B%2B,
+        ex:Embedded_Systems ;
+    ex:graduated_in ex:2011,
+        ex:2015 ;
+    ex:gradutedFrom ex:Georgia_Tech,
+        ex:Purdue_University ;
+    ex:holdsDegree ex:BSc_in_Computer_Engineering,
+        ex:MSc_in_Computer_Science ;
+    ex:isAged ex:37 ;
+    ex:livesAt ex:5003_Developer_St_IT_City_USA ;
+    ex:workedAs ex:Senior_Embedded_Software_Engineer,
+        ex:Software_Engineer ;
+    ex:workedAt ex:Embedded_Solutions,
+        ex:Tech_Systems .
+
+ex:Lucas_Lee ex:description ex:d8b02750481d9480315fbe03319e4d2e8f2805196b5ffb51a46eac232f2bcfe9 ;
+    ex:expertiseIn ex:Data_Visualization,
+        ex:Machine_Learning,
+        ex:Python,
+        ex:SQL ;
+    ex:graduated_in ex:2015,
+        ex:2019 ;
+    ex:gradutedFrom ex:University_of_California_San_Diego,
+        ex:University_of_Southern_California ;
+    ex:holdsDegree ex:BSc_in_Statistics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:20010_Data_Science_Blvd_Insight_Town_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Vision,
+        ex:Innovative_Data_Solutions .
+
+ex:Lucas_Perez ex:description ex:09b70420bfaa57f6265df7266a0ce86fe47d2dfd5699c259971bd6ab6bf75fbb,
+        ex:dc27a421df7f44042f4c512dc74e11bb0e063169aa4588b601e7aa0af2e224a6 ;
+    ex:expertiseIn ex:Brand_Strategy,
+        ex:Competitive_Analysis,
+        ex:Market_Research ;
+    ex:graduated_in ex:2015,
+        ex:2019 ;
+    ex:gradutedFrom ex:Graduate_School_of_Business,
+        ex:University_of_Economics ;
+    ex:holdsDegree ex:BSc_in_Economics,
+        ex:MBA ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:888_Cedar_Rd_Rivertown_USA ;
+    ex:workedAs ex:Market_Research_Analyst,
+        ex:Senior_Brand_Strategist ;
+    ex:workedAt ex:Global_Trends,
+        ex:Insights_Lab .
+
+ex:Lucas_Peterson ex:description ex:9b23352129497137892804e8b996e72d96e214855ff4b0c46015bdfe833d34c9 ;
+    ex:expertiseIn ex:Budget_Management,
+        ex:Google_Ads,
+        ex:Social_Media_Ads ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:Tech_Marketing_College ;
+    ex:holdsDegree ex:BSc_in_Digital_Marketing ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:1006_Ad_St_Mediatown_USA ;
+    ex:workedAs ex:Ad_Specialist,
+        ex:PPC_Manager ;
+    ex:workedAt ex:AdMasters,
+        ex:ClickForce .
+
+ex:Madison_King ex:description ex:b0b1945f289bf1564cb015f6c16b296e1b0d09b78fea68f21504c8ae46322b34,
+        ex:ce8c63d587ba8b95a4115dd58e7cf679c181136397f0785137db1c6668e3174a ;
+    ex:expertiseIn ex:Brand_Development,
+        ex:Customer_Insights,
+        ex:Market_Positioning ;
+    ex:graduated_in ex:2011,
+        ex:2016 ;
+    ex:gradutedFrom ex:Global_University,
+        ex:University_of_Marketing ;
+    ex:holdsDegree ex:BSc_in_Marketing,
+        ex:MSc_in_Consumer_Behavior ;
+    ex:isAged ex:38 ;
+    ex:livesAt ex:300_Elm_St_Oldtown_USA ;
+    ex:workedAs ex:Brand_Development_Manager,
+        ex:Marketing_Associate ;
+    ex:workedAt ex:BrandMasters,
+        ex:Leading_Edge_Marketing .
+
+ex:Mason_Davis ex:description ex:e5dc7bbaf19e35160668f1ca0731b74b7ab72ee9d0887adecd8bf0fbc797ffa3 ;
+    ex:expertiseIn ex:Data_Visualization,
+        ex:Machine_Learning,
+        ex:R,
+        ex:Statistical_Analysis ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Columbia_University,
+        ex:University_of_Florida ;
+    ex:holdsDegree ex:BSc_in_Data_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:20014_Insight_Blvd_Data_City_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Analytics_Group,
+        ex:Smart_Analytics_Co .
+
+ex:Mason_Garcia ex:description ex:c77d4c93525db5ab63695b9e4b9e651f8e639b4ed7ed3c34b1d9ce3a08483e9e ;
+    ex:expertiseIn ex:Django,
+        ex:Flask,
+        ex:Python ;
+    ex:graduated_in ex:2012 ;
+    ex:gradutedFrom ex:Boston_University ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:39 ;
+    ex:livesAt ex:10005_Tech_St_Coding_City_USA ;
+    ex:workedAs ex:Backend_Developer,
+        ex:Senior_Backend_Engineer ;
+    ex:workedAt ex:Innovative_Solutions,
+        ex:Web_Development_Co .
+
+ex:Mason_Harris ex:description ex:476cbdc8e838cd65ad767211d1268a7f662eebd90a67f9dfc060b406950d59a0 ;
+    ex:expertiseIn ex:API_Design,
+        ex:Rails,
+        ex:Ruby ;
+    ex:graduated_in ex:2018 ;
+    ex:gradutedFrom ex:University_of_Minnesota ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:28 ;
+    ex:livesAt ex:7005_Developer_Rd_IT_Hub_USA ;
+    ex:workedAs ex:Backend_Developer,
+        ex:Senior_Backend_Developer ;
+    ex:workedAt ex:Digital_Innovations,
+        ex:Tech_Startups .
+
+ex:Mason_King ex:description ex:1ae2510d3e64e90f8643c8b21c2bc0b15df885873206bb0a49fd39fa242e2604 ;
+    ex:expertiseIn ex:API_Development,
+        ex:MySQL,
+        ex:PHP ;
+    ex:graduated_in ex:2010,
+        ex:2014 ;
+    ex:gradutedFrom ex:Columbia_University,
+        ex:New_York_University ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Software_Engineering ;
+    ex:isAged ex:38 ;
+    ex:livesAt ex:5006_Code_Blvd_Software_Town_USA ;
+    ex:workedAs ex:Lead_Software_Engineer,
+        ex:PHP_Developer ;
+    ex:workedAt ex:Dynamic_Solutions,
+        ex:Web_Development_Co .
+
+ex:Mason_Lee ex:description ex:130b71e4951ebf5f9520f0ea286e879aeed61f5c97a2a12dc02e68f8d825306c,
+        ex:48f58ed93e0a77f15c15ee226c5329131caa11ab4b405bb2982a07e8c32bdf59,
+        ex:506d8e9e616956512ddc4326062fdc1891e614ba6f4a76d2a4d81dbed71ed4b3,
+        ex:f565476b065453bbc68f3a261901e4d7cab203f168a036b3928f01bf9339501a ;
+    ex:expertiseIn ex:Machine_Learning_Algorithms,
+        ex:R,
+        ex:Statistical_Modeling ;
+    ex:graduated_in ex:2015,
+        ex:2018 ;
+    ex:gradutedFrom ex:Columbia_University,
+        ex:University_of_Michigan ;
+    ex:holdsDegree ex:BSc_in_Mathematics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:2006_Algorithm_Rd_Innovate_Town_USA ;
+    ex:workedAs ex:Machine_Learning_Engineer,
+        ex:Statistical_Analyst ;
+    ex:workedAt ex:Data_Insights_Co,
+        ex:Predictive_Analytics_Inc .
+
+ex:Mia_Brown ex:description ex:839f22181a20c7e42dd808d588d7f9106606688536fad3e9ec2210897a8b8de8 ;
+    ex:expertiseIn ex:Big_Data,
+        ex:Crisis_Management,
+        ex:Data_Visualization,
+        ex:Machine_Learning,
+        ex:Media_Relations,
+        ex:Public_Relations,
+        ex:Python ;
+    ex:graduated_in ex:2008,
+        ex:2017,
+        ex:2020 ;
+    ex:gradutedFrom ex:Carnegie_Mellon_University,
+        ex:New_York_University,
+        ex:University_of_Communications ;
+    ex:holdsDegree ex:BA_in_Public_Relations,
+        ex:BSc_in_Data_Science,
+        ex:MSc_in_Machine_Learning ;
+    ex:isAged ex:28,
+        ex:38 ;
+    ex:livesAt ex:20008_Machine_Learning_Rd_Data_Valley_USA,
+        ex:808_Ads_Avenue_Brandville_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist,
+        ex:PR_Manager,
+        ex:PR_Specialist ;
+    ex:workedAt ex:CommMedia,
+        ex:Insightful_Data,
+        ex:Strategic_PR_Group,
+        ex:Visionary_Analytics .
+
+ex:Mia_Davis ex:description ex:0d784ab6e374d346f8ed7be2363618952063190f92d877fd72c006ce0c6fd470,
+        ex:5d656438ef29c72c1ab5acc7344756e34b6cdf1c68a45e9ede6e9d096d09912f ;
+    ex:expertiseIn ex:Clinical_Trials,
+        ex:Oncology,
+        ex:Patient_Counseling ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:University_of_Health ;
+    ex:holdsDegree ex:BSc_in_Nursing ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:141_Medical_Blvd_MedCity_USA ;
+    ex:workedAs ex:Oncology_Nurse,
+        ex:Senior_Oncology_Nurse ;
+    ex:workedAt ex:Advanced_Oncology_Institute,
+        ex:Cancer_Care_Center .
+
+ex:Mia_Smith ex:description ex:0cb1db0e91181edb711af9b8c62d58ca1b4b8447f46de32125b1bff873ed0bcc,
+        ex:2266c360b546613812660fe307a87e5ea2e1f1dc806af292105d191b293866b4,
+        ex:b16c84f0399c73c37a664204bc16d667301340460443c78844fe3c8fbc01fb5d,
+        ex:f61e4284dcaf3d7d5512167fb262e3575eb8327168cc6c5b034e23acc8c5b169 ;
+    ex:expertiseIn ex:Leadership,
+        ex:Market_Analysis,
+        ex:Sales_Strategy ;
+    ex:graduated_in ex:2013,
+        ex:2015 ;
+    ex:gradutedFrom ex:Stanford_Graduate_School_of_Business,
+        ex:University_of_California_Berkeley ;
+    ex:holdsDegree ex:BS_in_Business_Administration,
+        ex:MBA_in_Management ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:3002_Executive_Way_Management_Town_USA ;
+    ex:workedAs ex:Director_of_Business_Development,
+        ex:Sales_Manager ;
+    ex:workedAt ex:Peak_Performance_Inc,
+        ex:Visionary_Group .
+
+ex:Mia_Thompson ex:description ex:bc4b077707e7029b1e8ab25685fc1d2ce91815c82494bf53aac3cbd250e5fa61 ;
+    ex:expertiseIn ex:Kotlin,
+        ex:Mobile_Development,
+        ex:Swift ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:University_of_Massachusetts_Amherst ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:6005_Development_Way_Tech_Valley_USA ;
+    ex:workedAs ex:Lead_Mobile_Developer,
+        ex:iOS_Developer ;
+    ex:workedAt ex:App_Developers_Inc,
+        ex:Mobile_Innovations .
+
+ex:Mia_White ex:description ex:42f180855c09e7df4f32f69ab1975349ff731f793335feb01c1f9879cbc5b902 ;
+    ex:expertiseIn ex:CSS,
+        ex:HTML,
+        ex:JavaScript ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:Purdue_University ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:9003_Development_Rd_Code_Town_USA ;
+    ex:workedAs ex:Frontend_Architect,
+        ex:Web_Developer ;
+    ex:workedAt ex:Creative_Web_Solutions,
+        ex:Web_Creators .
+
+ex:Michael_Johnson ex:description ex:ae29016bbb737a51d17ab234c524b1b0732df0de3a3cc8b020d69b94c80aa358,
+        ex:da7bb83d3bfff18eea7164d7dc37b4ec367072ef65de0f133c3b8b4c78409c40 ;
+    ex:expertiseIn ex:JavaScript,
+        ex:React,
+        ex:TypeScript ;
+    ex:graduated_in ex:2014,
+        ex:2017 ;
+    ex:gradutedFrom ex:City_University,
+        ex:Tech_Academy ;
+    ex:holdsDegree ex:BA_in_Graphic_Design,
+        ex:MSc_in_Web_Development ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:789_Maple_Rd_Smalltown_USA ;
+    ex:workedAs ex:Frontend_Developer,
+        ex:Senior_Frontend_Developer ;
+    ex:workedAt ex:Creative_Solutions,
+        ex:WebWorld .
+
+ex:Michael_Thompson ex:description ex:589f8d4957864f8777edbfa166dd65044e1e33b1218c7dfe8704d187a91a5f90,
+        ex:ae2cc7ec3c30a8d9b8900d81a5466508a74fb4cdc44dca91dfd25e1ccb41096b ;
+    ex:expertiseIn ex:Digital_Marketing,
+        ex:Google_Analytics,
+        ex:SEO ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:Digital_Marketing_Academy ;
+    ex:holdsDegree ex:BSc_in_Digital_Marketing ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:202_Digital_St_Adtown_USA ;
+    ex:workedAs ex:Digital_Marketing_Manager,
+        ex:Digital_Marketing_Specialist ;
+    ex:workedAt ex:AdVision_Solutions,
+        ex:MarketHub .
+
+ex:Noah_Gonzalez ex:description ex:c6b05a4956347068192b01a74e781ea45f24a2abcb2fee8e054e41277a66bae9,
+        ex:fb114ea33a923c309b14c344ed2c549fe49d1267a54271ff2a4df567f3d4c949 ;
+    ex:expertiseIn ex:Content_Strategy,
+        ex:Market_Analysis,
+        ex:SEO ;
+    ex:graduated_in ex:2013 ;
+    ex:gradutedFrom ex:Marketing_Institute ;
+    ex:holdsDegree ex:BSc_in_Marketing_Analytics ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:1002_Promo_St_Adcity_USA ;
+    ex:workedAs ex:SEO_Specialist,
+        ex:Senior_SEO_Manager ;
+    ex:workedAt ex:OptimizeHQ,
+        ex:SearchSavvy .
+
+ex:Noah_Lee ex:description ex:c2e575bedf52128eeb3a67f9de7eab843a971a204608b7b13c2d2615f6379cb1 ;
+    ex:expertiseIn ex:Hibernate,
+        ex:Java,
+        ex:Spring ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:University_of_Illinois ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:9004_Tech_Lane_Digital_City_USA ;
+    ex:workedAs ex:Java_Developer,
+        ex:Lead_Java_Developer ;
+    ex:workedAt ex:Innovative_Systems,
+        ex:Software_Inc .
+
+ex:Noah_Martin ex:description ex:324ac25a9d7e2a615e7e53a3999705216e0d29597cf3db4d71ce437526ec0d40,
+        ex:acb0db326a6744853b7538c244de32b5a48592e23fcabf627a6b164a92da1268 ;
+    ex:expertiseIn ex:C%23,
+        ex:Java,
+        ex:Software_Development ;
+    ex:graduated_in ex:2012,
+        ex:2014 ;
+    ex:gradutedFrom ex:Stanford_University,
+        ex:University_of_California_Berkeley ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Computer_Science ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:4001_Code_St_Tech_City_USA ;
+    ex:workedAs ex:Senior_Software_Engineer,
+        ex:Software_Developer ;
+    ex:workedAt ex:Innovate_Tech,
+        ex:Tech_Solutions .
+
+ex:Noah_Martinez ex:description ex:38192bdf9f309840d9924cbdf536bb570af94bf16d853590ecd193226d5d08ac ;
+    ex:expertiseIn ex:Big_Data,
+        ex:Data_Mining,
+        ex:Predictive_Analytics,
+        ex:Python ;
+    ex:graduated_in ex:2016,
+        ex:2019 ;
+    ex:gradutedFrom ex:Johns_Hopkins_University,
+        ex:University_of_California_Irvine ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:20012_Model_St_Data_City_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Insight_Labs,
+        ex:Tech_Innovations .
+
+ex:Oliver_Davis ex:description ex:3958f3a97cfd8ddc5c28ecafcc4568d92b734f9f7eae3749c28ec64d2d0eaf6a,
+        ex:7b1cbdbb7a14817d943e54604b49886c54aed0685a1af7bb516b5d15e3043428,
+        ex:a1e3999ce711f632409f0dc4433a09d1a41362d5ffd57950ab001261ea56f206,
+        ex:f3abf9a278fd9316fe4b59803db5b526c206ea19d0cf12d4bc9823f5bb531c42,
+        ex:fc5a9138b8dca4c38f7f1a1eb0f281c034e17d736158149e810141a609bb707b ;
+    ex:expertiseIn ex:Financial_Analysis,
+        ex:Investment_Strategies,
+        ex:Risk_Management ;
+    ex:graduated_in ex:2010,
+        ex:2012 ;
+    ex:gradutedFrom ex:University_of_Texas_at_Austin,
+        ex:Wharton_School_of_Business ;
+    ex:holdsDegree ex:BBA_in_Finance,
+        ex:MBA_in_Finance ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:3003_Business_Blvd_Commercial_City_USA ;
+    ex:workedAs ex:Financial_Analyst,
+        ex:Senior_Financial_Consultant ;
+    ex:workedAt ex:Capital_Advisors,
+        ex:Investment_Partners .
+
+ex:Oliver_Martinez ex:description ex:70b0ccfbb1936afabe66b44a031be1118aba0fb700e548c5c1cfd559193aa4d2 ;
+    ex:expertiseIn ex:CSS,
+        ex:HTML,
+        ex:JavaScript ;
+    ex:graduated_in ex:2012 ;
+    ex:gradutedFrom ex:Florida_State_University ;
+    ex:holdsDegree ex:BSc_in_Web_Development ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:6003_Tech_Blvd_IT_Hub_USA ;
+    ex:workedAs <http://RH.org/UI/UX_Developer>,
+        ex:Web_Designer ;
+    ex:workedAt ex:Digital_Agency,
+        ex:Web_Creators .
+
+ex:Oliver_Moore ex:expertiseIn ex:Rust,
+        ex:Systems_Programming,
+        ex:WebAssembly ;
+    ex:graduated_in ex:2013,
+        ex:2016 ;
+    ex:gradutedFrom ex:Harvard_University,
+        ex:Stanford_University ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Software_Engineering ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:9001_Cyber_St_Silicon_Valley_USA ;
+    ex:workedAs ex:Senior_Software_Engineer,
+        ex:Software_Engineer ;
+    ex:workedAt ex:Advanced_Systems,
+        ex:Future_Tech .
+
+ex:Olivia_Hernandez ex:description ex:df55e83a5ce62da837f94c841de63c782df573c2954ab9bb9b8dbd6f9bcc3bfc ;
+    ex:expertiseIn ex:Data_Analysis,
+        ex:Machine_Learning,
+        ex:R ;
+    ex:graduated_in ex:2012,
+        ex:2014 ;
+    ex:gradutedFrom ex:University_of_California_Los_Angeles,
+        ex:University_of_Florida ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:34 ;
+    ex:livesAt ex:4004_Innovation_St_Dev_Town_USA ;
+    ex:workedAs ex:Data_Scientist,
+        ex:Machine_Learning_Engineer ;
+    ex:workedAt ex:AI_Tech_Corp,
+        ex:Analytics_Firm .
+
+ex:Olivia_Martinez ex:description ex:03be88ce4ecadeabe605366d2d8f149fb0d1813c37ba76ccb6e8271b7a71fe53,
+        ex:f152789dcbcf01f3621ac56f88cb5a1d3d67fbd17295561084541e44c2a1f806 ;
+    ex:expertiseIn ex:Family_Medicine,
+        ex:Health_Screening,
+        ex:Patient_Counseling ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:Health_Sciences_University ;
+    ex:holdsDegree ex:Doctor_of_Medicine_%28MD%29 ;
+    ex:isAged ex:36 ;
+    ex:livesAt ex:789_Care_Ave_Wellness_USA ;
+    ex:workedAs ex:Family_Physician,
+        ex:Lead_Family_Physician ;
+    ex:workedAt ex:City_Health_Center,
+        ex:Community_Health_Clinic .
+
+ex:Olivia_Smith ex:description ex:128ebf7b8780d1db6da62fbd7a51019250a59a7bdaf7b98d3fd3f7df17feb0f8 ;
+    ex:expertiseIn ex:Data_Mining,
+        ex:Predictive_Modeling,
+        ex:R,
+        ex:SQL ;
+    ex:graduated_in ex:2016,
+        ex:2019 ;
+    ex:gradutedFrom ex:University_of_California_Berkeley,
+        ex:University_of_Washington ;
+    ex:holdsDegree ex:BSc_in_Computer_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:32 ;
+    ex:livesAt ex:20002_Algorithm_Ave_Data_Town_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Analytica_Corp,
+        ex:Tech_Solutions .
+
+ex:Olivia_Taylor ex:description ex:007995bb896b3dec876dc91a44fdbbc138ee71ad32101b78e7f12b70586a71a3,
+        ex:be7cb94a0b3fa4034832fa2d84d8ae98c88b05e0cbd95ca2c7f0ce2bb5fbe085 ;
+    ex:expertiseIn ex:Campaign_Management,
+        ex:Email_Marketing,
+        ex:PPC_Advertising ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:University_of_Advertising ;
+    ex:holdsDegree ex:BSc_in_Advertising ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:606_Campaign_St_Promotown_USA ;
+    ex:workedAs ex:Marketing_Campaign_Manager,
+        ex:Marketing_Coordinator ;
+    ex:workedAt ex:Campaign_Pros,
+        ex:ClickDigital .
+
+ex:Ryan_Carter ex:description ex:dee4c872ec996f13837900d1c11eabb183367fa0d3062885f86bb57811fd5051 ;
+    ex:expertiseIn ex:Automation_Tools,
+        ex:Email_Marketing,
+        ex:Lead_Nurturing ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:Tech_Marketing_University ;
+    ex:holdsDegree ex:BSc_in_Marketing ;
+    ex:isAged ex:35 ;
+    ex:livesAt ex:1008_Strategy_Rd_Marketville_USA ;
+    ex:workedAs ex:Email_Marketing_Specialist,
+        ex:Senior_Email_Marketing_Manager ;
+    ex:workedAt ex:EmailPros,
+        ex:EngagePlus .
+
+ex:Sophia_Adams ex:description ex:be8d38ea64ce6dfb6f5609bd47ac5974417f18de9bf0683d1c78f5616e9357c3 ;
+    ex:expertiseIn ex:Go,
+        ex:Kubernetes,
+        ex:Microservices ;
+    ex:graduated_in ex:2017 ;
+    ex:gradutedFrom ex:Georgia_Institute_of_Technology ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:7006_Innovation_Way_Code_City_USA ;
+    ex:workedAs ex:Senior_Software_Engineer,
+        ex:Software_Engineer ;
+    ex:workedAt ex:Cloud_Innovations,
+        ex:DevOps_Masters .
+
+ex:Sophia_Clark ex:description ex:b583981d36d1854c7254d4c7135bc4c394def86b784d7165c813c4a9edc20173 ;
+    ex:expertiseIn ex:Cybersecurity,
+        ex:Network_Security,
+        ex:Systems_Analysis ;
+    ex:graduated_in ex:2013,
+        ex:2018 ;
+    ex:gradutedFrom ex:Carnegie_Mellon_University,
+        ex:Northeastern_University ;
+    ex:holdsDegree ex:BSc_in_Information_Technology,
+        ex:MSc_in_Information_Security ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:4005_Tech_Park_Soft_City_USA ;
+    ex:workedAs ex:Cybersecurity_Analyst,
+        ex:Network_Engineer ;
+    ex:workedAt ex:Cyber_Defense_Inc,
+        ex:Secure_Networks .
+
+ex:Sophia_Evans ex:description ex:82c1515f04caa96798300d69b9cabfd51343329a9e7a61884ce72f20c7eb5417,
+        ex:f486fa8db2891d6f866d1b65e1a98ec13364085cca9716a618e6b0231ecf61af ;
+    ex:expertiseIn ex:Content_Marketing,
+        ex:Copywriting,
+        ex:Social_Media ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:University_of_Media_Studies ;
+    ex:holdsDegree ex:BA_in_Communications ;
+    ex:isAged ex:31 ;
+    ex:livesAt ex:303_Content_Blvd_Creativille_USA ;
+    ex:workedAs ex:Content_Marketing_Specialist,
+        ex:Content_Writer ;
+    ex:workedAt ex:Content_Creators,
+        ex:Social_Wave_Media .
+
+ex:Sophia_Garcia ex:description ex:87a508735b87d1de0110a7d7a4ab5d47d4a5c662cb3bdd1b0c941b37b78a952e ;
+    ex:expertiseIn ex:Data_Analysis,
+        ex:Machine_Learning,
+        ex:Python,
+        ex:Scikit-Learn ;
+    ex:graduated_in ex:2017,
+        ex:2020 ;
+    ex:gradutedFrom ex:University_of_California_San_Francisco,
+        ex:University_of_Texas_at_Austin ;
+    ex:holdsDegree ex:BSc_in_Data_Science,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:30 ;
+    ex:livesAt ex:20004_Model_St_Data_Valley_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Insights,
+        ex:Innovative_Analytics .
+
+ex:Sophia_Harris ex:description ex:4bda75e4298f9f8cd1e00fccbaaf3eb9120100bd0a0df007878757edae7e38be,
+        ex:61b25602a407ad00ba75f8602629421d22c57ca93782b16c56900840cddf48fd ;
+    ex:expertiseIn ex:Health_Education,
+        ex:Immunizations,
+        ex:Pediatrics ;
+    ex:graduated_in ex:2010,
+        ex:2018 ;
+    ex:gradutedFrom ex:Nursing_University,
+        ex:Pediatric_Health_Institute ;
+    ex:holdsDegree ex:BSc_in_Nursing,
+        ex:MSc_in_Pediatric_Nursing ;
+    ex:isAged ex:37 ;
+    ex:livesAt ex:111_Clinic_St_Medville_USA ;
+    ex:workedAs ex:Pediatric_Nurse,
+        ex:Pediatric_Nurse_Practitioner ;
+    ex:workedAt ex:Family_Wellness_Hospital,
+        ex:Kids_Health_Clinic .
+
+ex:Sophia_Johnson ex:description ex:48a52473f1c512851c648b8261f32290e2fe817bad747efdbfa168412b0be142 ;
+    ex:expertiseIn ex:API_Development,
+        ex:Agile_Methodologies,
+        ex:Cross-Functional_Team_Leadership,
+        ex:Product_Management,
+        ex:Rails,
+        ex:Ruby ;
+    ex:graduated_in ex:2014,
+        ex:2015,
+        ex:2016 ;
+    ex:gradutedFrom ex:Columbia_Business_School,
+        ex:University_of_California_Berkeley,
+        ex:University_of_Washington ;
+    ex:holdsDegree ex:BS_in_Business_Management,
+        ex:BSc_in_Computer_Science,
+        ex:MBA_in_Marketing ;
+    ex:isAged ex:31,
+        ex:33 ;
+    ex:livesAt ex:3004_Commerce_Rd_Bizland_USA,
+        ex:6002_Code_St_Dev_City_USA ;
+    ex:workedAs ex:Product_Manager,
+        ex:Ruby_Developer,
+        ex:Senior_Product_Manager,
+        ex:Senior_Software_Developer ;
+    ex:workedAt ex:Cloud_Solutions,
+        ex:Code_Crafters,
+        ex:Creative_Labs,
+        ex:Tech_Innovators .
+
+ex:Sophia_Lee ex:description ex:21ac103976b5fd8cc6b34600f93452456ff83a498bde685e143c2749d0e94ff6,
+        ex:a0796aca8036e5cf91d4b79d6c9bd26e5c6301c981c773d440313ddba2265e81 ;
+    ex:expertiseIn ex:Android_Development,
+        ex:Java,
+        ex:Kotlin ;
+    ex:graduated_in ex:2014 ;
+    ex:gradutedFrom ex:University_of_Mobile_Tech ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:33 ;
+    ex:livesAt ex:456_Birch_Ln_Lakeview_USA ;
+    ex:workedAs ex:Android_Developer,
+        ex:Senior_Mobile_Developer ;
+    ex:workedAt ex:MobileApps_Inc,
+        ex:TechWaves .
+
+ex:Sophia_Rodriguez ex:description ex:13c4162d889d0046b7e9dad780ab8fcfcff35a539c9bdba7cee066ef12a13b3b ;
+    ex:expertiseIn ex:Data_Mining,
+        ex:Data_Visualization,
+        ex:Python,
+        ex:Statistical_Analysis ;
+    ex:graduated_in ex:2017,
+        ex:2020 ;
+    ex:gradutedFrom ex:Columbia_University,
+        ex:New_York_University ;
+    ex:holdsDegree ex:BSc_in_Mathematics,
+        ex:MSc_in_Data_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:20017_Analytics_Ave_Data_World_USA ;
+    ex:workedAs ex:Data_Analyst,
+        ex:Data_Scientist ;
+    ex:workedAt ex:Data_Science_Solutions,
+        ex:Insight_Analytics .
+
+ex:Sophia_Thompson ex:description ex:7db55640d9e95c193396e8d1e38d50254e40e76f975d84dce96fe45bb9af8a4d ;
+    ex:expertiseIn ex:Angular,
+        ex:CSS,
+        ex:HTML ;
+    ex:graduated_in ex:2016 ;
+    ex:gradutedFrom ex:University_of_Maryland ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:10004_Development_Rd_Silicon_Valley_USA ;
+    ex:workedAs ex:Frontend_Developer,
+        ex:Web_Designer ;
+    ex:workedAt ex:Creative_Tech,
+        ex:Digital_Innovations .
+
+ex:Zoe_Taylor ex:expertiseIn ex:JavaScript,
+        ex:Nodejs,
+        ex:Vuejs ;
+    ex:graduated_in ex:2015 ;
+    ex:gradutedFrom ex:University_of_Michigan ;
+    ex:holdsDegree ex:BSc_in_Computer_Science ;
+    ex:isAged ex:29 ;
+    ex:livesAt ex:8002_Innovation_Blvd_Coding_City_USA ;
+    ex:workedAs ex:Frontend_Developer,
+        ex:Full_Stack_Developer ;
+    ex:workedAt ex:Cloud_Services,
+        ex:Web_Dynamics .
+

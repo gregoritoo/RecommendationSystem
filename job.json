@@ -1,0 +1,17 @@
+{
+    "job_title": "Software Engineer",
+    "job_description": "Responsible for developing and maintaining software applications.",
+    "budget": {
+        "min": 70000,
+        "max": 90000,
+        "currency": "USD"
+    },
+    "location": "San Francisco, CA",
+    "company_name": "Tech Corp",
+    "employment_type": "Full-time",
+    "required_skills": [
+        "JavaScript",
+        "Python",
+        "Java"
+    ]
+}

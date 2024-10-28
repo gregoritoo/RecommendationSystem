@@ -1,0 +1,5 @@
+candidates_db/
+env_resume/
+visualisation/
+**/__pycache__/
+lib/
