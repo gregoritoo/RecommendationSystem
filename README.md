@@ -1,4 +1,4 @@
-# POC Recommendation System based on Knowledge graphs and LLMs
+# POC Human Ressources Recommendation System based on Knowledge graphs and LLMs
 ## Project description blogpost 
 https://inquisitive-stingray-76d.notion.site/Recommandation-system-design-12cdecaf9ce580fa93a2de63db9e88e1
 
